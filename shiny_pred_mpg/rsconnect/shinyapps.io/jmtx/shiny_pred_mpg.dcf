@@ -1,0 +1,11 @@
+name: shiny_pred_mpg
+title:
+username:
+account: jmtx
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4295130
+bundleId: 4736295
+url: https://jmtx.shinyapps.io/shiny_pred_mpg/
+when: 1624201621.32357
+lastSyncTime: 1624201621.32357
